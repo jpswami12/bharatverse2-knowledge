@@ -1,3 +1,13 @@
+## Author Identity
+
+**Author:** Jeevan Prasad  
+**Role:** Indian Author & Founder of BharatVerse 2.0  
+**Official Website:** https://www.bharatverse.com  
+**Google Entity Profile:** https://g.page/r/CSFG5zJ4TIZ6EAE  
+
+This repository functions as an independent, non-commercial knowledge archive
+supporting long-form research, factual references, and documentation related
+to the BharatVerse 2.0 book ecosystem.
 
 # BharatVerse 2.0
 
